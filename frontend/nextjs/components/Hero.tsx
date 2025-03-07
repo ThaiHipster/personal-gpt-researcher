@@ -34,7 +34,7 @@ const Hero: FC<THeroProps> = ({
             </span>
           </h1>
           <h2 className="text-xl font-light text-center px-4 mb-10 md:mb-12 text-gray-300">
-            Say Hello to GPT Researcher, your AI mate for rapid insights and comprehensive research
+            I am Robert's Personal Deep Research Agent. I help you execute deep research across web, local files, Google Drive, and uploaded files.
           </h2>
         </div>
 
