@@ -1,5 +1,6 @@
 services:
   gpt-researcher:
+    platform: linux/amd64
     pull_policy: build
     image: gptresearcher/gpt-researcher
     build: ./
