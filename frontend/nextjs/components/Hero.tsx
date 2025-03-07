@@ -22,15 +22,15 @@ const Hero: FC<THeroProps> = ({
       <div className="flex flex-col items-center justify-center py-8 md:py-12 lg:pt-8 lg:pb-16">
         <div className="landing flex flex-col items-center mb-8 md:mb-12">
           <h1 className="text-4xl font-extrabold text-center lg:text-7xl mb-6">
-            Say Goodbye to <br />
+            Research <br />
             <span
               style={{
-                backgroundImage: 'linear-gradient(to right, #9867F0, #ED4E50)',
+                backgroundImage: 'linear-gradient(to right, #698B69, #8BA88B)',
                 WebkitBackgroundClip: 'text',
                 WebkitTextFillColor: 'transparent',
               }}
             >
-              Hours of Research
+              Done Differently
             </span>
           </h1>
           <h2 className="text-xl font-light text-center px-4 mb-10 md:mb-12 text-gray-300">
